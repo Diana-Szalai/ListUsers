@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B39DB2B3-4364-4E8D-B210-EC48CF844F13"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B416674F-EA50-4C58-860A-99485C074F92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Services/API/FetchUsers/UserApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "urlComponents"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC9E54AD-BE47-4128-B0FF-427BFCA258AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Services/API/FetchUsers/UserApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "urlComponents"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DACB8AC5-4E4B-4C23-A5D8-D7C4442A4FB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Services/API/FetchUsers/UserApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "urlComponents"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F752FF71-447F-4180-BA4D-A522DD967771"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Services/API/FetchUsers/UserService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "currentUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F752FF71-447F-4180-BA4D-A522DD967771 - 15d5a7d5ef022e27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.UserService.currentUsers() -&gt; Combine.AnyPublisher&lt;ListUsers.UserResponse, ListUsers.UserError&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Services/API/FetchUsers/UserService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1452">
+               </Location>
+               <Location
+                  uuid = "F752FF71-447F-4180-BA4D-A522DD967771 - 6e4a9b080c0467e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.UserService.currentUsers() -&gt; Combine.AnyPublisher&lt;ListUsers.UsersResponse, ListUsers.UserError&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Services/API/FetchUsers/UserService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08F744EB-08DB-49D6-9222-01B5BC00D0F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Services/API/FetchUsers/UserApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "urlComponents"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "341C9FC0-D3EC-42F0-8593-CDB63FDF28B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Services/API/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "makeRequest(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "341C9FC0-D3EC-42F0-8593-CDB63FDF28B2 - 87a20941c0dc3df9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.ApiService.makeRequest(endpoint: &#x3c4;_0_0) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Services/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+               <Location
+                  uuid = "341C9FC0-D3EC-42F0-8593-CDB63FDF28B2 - 316b3a53e9e43fd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String, Swift.String) -&gt; () in ListUsers.ApiService.makeRequest(endpoint: &#x3c4;_0_0) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Services/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21457270-87C6-4B05-AFCB-822DFDFA1107"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Services/API/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "makeRequest(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21457270-87C6-4B05-AFCB-822DFDFA1107 - 9d669e29307e107f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.ApiService.dataTask&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable&gt;(request: Foundation.URLRequest) -&gt; Combine.AnyPublisher&lt;&#x3c4;_1_0, Swift.Error&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Services/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "21457270-87C6-4B05-AFCB-822DFDFA1107 - 87a20941c0dc023b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.ApiService.makeRequest(endpoint: &#x3c4;_0_0) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Services/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E144B05-FD5F-4262-9D0C-25EDD0996280"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Services/API/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "makeRequest(endpoint:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2E144B05-FD5F-4262-9D0C-25EDD0996280 - 87a20941c0dc3cc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.ApiService.makeRequest(endpoint: &#x3c4;_0_0) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Services/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "2E144B05-FD5F-4262-9D0C-25EDD0996280 - 87a20941c0dc3cc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.ApiService.makeRequest(endpoint: &#x3c4;_0_0) -&gt; Swift.Optional&lt;Foundation.URLRequest&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Services/API/APIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7A92738-9B61-47EC-8CFA-62C5EBBD0837"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Services/API/ApiResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "441CAE0D-5D56-4A00-A94C-4AEB818FA8A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Services/API/ApiResponse.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44D71C61-4A49-415E-9265-D8AE36D00E90"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/ListUsersApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "44D71C61-4A49-415E-9265-D8AE36D00E90 - ab236699e0e21b16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; ListUsers.HomeCoordinatorView in ListUsers.ListUsersApp.body.getter : some"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/ListUsersApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "44D71C61-4A49-415E-9265-D8AE36D00E90 - ab236699e0e21b37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; ListUsers.HomeCoordinatorView in ListUsers.ListUsersApp.body.getter : some"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/ListUsersApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6515FA5-E509-4899-8C13-249749632F38"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/SearchUser/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "init(usersRepository:bkgScheduler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6515FA5-E509-4899-8C13-249749632F38 - c54dc732613343d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.SearchViewModel.init(userService: ListUsers.UserServiceType, scheduler: __C.OS_dispatch_queue) -&gt; ListUsers.SearchViewModel"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "C6515FA5-E509-4899-8C13-249749632F38 - 72286c5ce67ca6c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.SearchViewModel.init(usersRepository: ListUsers.UsersRepositoryType, bkgScheduler: __C.OS_dispatch_queue) -&gt; ListUsers.SearchViewModel"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "612">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B766BEA7-8613-418D-8C8E-8BAC5C9033C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/SearchUser/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getCurrentUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B766BEA7-8613-418D-8C8E-8BAC5C9033C0 - d0b1191d4ab7fa49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.SearchViewModel.getCurrentUsers() -&gt; ()"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "B766BEA7-8613-418D-8C8E-8BAC5C9033C0 - d0b1191d4ab7fa49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.SearchViewModel.getCurrentUsers() -&gt; ()"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "B766BEA7-8613-418D-8C8E-8BAC5C9033C0 - d0b1191d4ab7fa49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.SearchViewModel.getCurrentUsers() -&gt; ()"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "348">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "267D2CAD-4D1E-4982-B4A1-27190B411CA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/SearchUser/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getCurrentUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "267D2CAD-4D1E-4982-B4A1-27190B411CA7 - fe5a49a61c70e057"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;ListUsers.User&gt;) -&gt; () in ListUsers.SearchViewModel.getCurrentUsers() -&gt; ()"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "267D2CAD-4D1E-4982-B4A1-27190B411CA7 - fe5a49a61c70e057"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;ListUsers.User&gt;) -&gt; () in ListUsers.SearchViewModel.getCurrentUsers() -&gt; ()"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "267D2CAD-4D1E-4982-B4A1-27190B411CA7 - fe5a49a61c70e3b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;ListUsers.User&gt;) -&gt; () in ListUsers.SearchViewModel.getCurrentUsers() -&gt; ()"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22A9328B-7E46-40FF-A8A7-2683278B2BC6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Data/Repositories/UsersRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "getUsersFromCache()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "22A9328B-7E46-40FF-A8A7-2683278B2BC6 - 6907228c33b860a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.UsersRepository.getUsersFromCache() -&gt; Swift.Array&lt;ListUsers.UserObject&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Data/Repositories/UsersRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "22A9328B-7E46-40FF-A8A7-2683278B2BC6 - 6907228c33b8617d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.UsersRepository.getUsersFromCache() -&gt; Swift.Array&lt;ListUsers.UserObject&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Data/Repositories/UsersRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "22A9328B-7E46-40FF-A8A7-2683278B2BC6 - 6907228c33b860a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.UsersRepository.getUsersFromCache() -&gt; Swift.Array&lt;ListUsers.UserObject&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Data/Repositories/UsersRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71771671-0C39-4E5E-94BB-2BC89109837B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Data/Repositories/UsersRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "currentUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71771671-0C39-4E5E-94BB-2BC89109837B - 17fca5f3542c525c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ListUsers.UsersRepository.currentUsers() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Data/Repositories/UsersRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "1688">
+               </Location>
+               <Location
+                  uuid = "71771671-0C39-4E5E-94BB-2BC89109837B - a959e563ec9e95f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Error) -&gt; Swift.Result&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;.Publisher in ListUsers.UsersRepository.currentUsers() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Data/Repositories/UsersRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "1344">
+               </Location>
+               <Location
+                  uuid = "71771671-0C39-4E5E-94BB-2BC89109837B - a959e563ec9e95d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Error) -&gt; Swift.Result&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;.Publisher in ListUsers.UsersRepository.currentUsers() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Data/Repositories/UsersRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1200">
+               </Location>
+               <Location
+                  uuid = "71771671-0C39-4E5E-94BB-2BC89109837B - 246f09375bda8b28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (ListUsers.UserError) -&gt; Swift.Result&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;.Publisher in ListUsers.UsersRepository.currentUsers() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Data/Repositories/UsersRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "808">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96306A73-AFB6-4F85-B22E-C4EFBDD8507B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Data/Repositories/UsersRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "currentUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "96306A73-AFB6-4F85-B22E-C4EFBDD8507B - a959e563ec9e9556"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Error) -&gt; Swift.Result&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;.Publisher in ListUsers.UsersRepository.currentUsers() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Data/Repositories/UsersRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1200">
+               </Location>
+               <Location
+                  uuid = "96306A73-AFB6-4F85-B22E-C4EFBDD8507B - a959e563ec9e9535"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Error) -&gt; Swift.Result&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;.Publisher in ListUsers.UsersRepository.currentUsers() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Data/Repositories/UsersRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "1200">
+               </Location>
+               <Location
+                  uuid = "96306A73-AFB6-4F85-B22E-C4EFBDD8507B - a959e563ec9e9556"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Error) -&gt; Swift.Result&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;.Publisher in ListUsers.UsersRepository.currentUsers() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Data/Repositories/UsersRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+               <Location
+                  uuid = "96306A73-AFB6-4F85-B22E-C4EFBDD8507B - 246f09375bda8bac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (ListUsers.UserError) -&gt; Swift.Result&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;.Publisher in ListUsers.UsersRepository.currentUsers() -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;ListUsers.UserObject&gt;, ListUsers.UserError&gt;"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/Data/Repositories/UsersRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35702D02-0D52-4277-B8B9-8CFA72DAF615"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/Data/Repositories/UsersRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "currentUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0E3D7B0-C275-4A27-80C3-D0D9646131C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/SearchUser/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getCurrentUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A0E3D7B0-C275-4A27-80C3-D0D9646131C6 - bff82b22bce7b4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;ListUsers.UserObject&gt;) -&gt; Swift.Array&lt;ListUsers.User&gt; in ListUsers.SearchViewModel.getCurrentUsers() -&gt; ()"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "A0E3D7B0-C275-4A27-80C3-D0D9646131C6 - a3052b9a7b498de6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ListUsers.UserObject) -&gt; ListUsers.User in closure #1 (Swift.Array&lt;ListUsers.UserObject&gt;) -&gt; Swift.Array&lt;ListUsers.User&gt; in ListUsers.SearchViewModel.getCurrentUsers() -&gt; ()"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "A0E3D7B0-C275-4A27-80C3-D0D9646131C6 - bff82b22bce7b6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;ListUsers.UserObject&gt;) -&gt; Swift.Array&lt;ListUsers.User&gt; in ListUsers.SearchViewModel.getCurrentUsers() -&gt; ()"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "A0E3D7B0-C275-4A27-80C3-D0D9646131C6 - a3052b9a7b498205"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ListUsers.UserObject) -&gt; ListUsers.User in closure #1 (Swift.Array&lt;ListUsers.UserObject&gt;) -&gt; Swift.Array&lt;ListUsers.User&gt; in ListUsers.SearchViewModel.getCurrentUsers() -&gt; ()"
+                  moduleName = "ListUsers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diana.szalai/Desktop/ListUsers/ListUsers/SearchUser/SearchViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DD56613-775D-41FC-9787-F72893218B7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsers/SearchUser/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getCurrentUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA0382EA-57BB-4947-9BBD-A314B8375E49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ListUsersTests/NetworkingUnitTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "stubSession"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
